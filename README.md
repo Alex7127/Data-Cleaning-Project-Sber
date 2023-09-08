@@ -62,7 +62,7 @@ git clone https://github.com/SkillfactoryDS/DataCleaningProject
 
 ## Авторы
 
-* [Укажите свое имя](ссылка на ваши соц сети)
+* [Alex7127](gh repo clone Alex7127/Data-Cleaning-Project-Sber)
 
 ## Выводы
 
